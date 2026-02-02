@@ -182,172 +182,172 @@ Abaixo estão as solicitações da diretoria e gerência, acompanhadas de seus r
 ![Resultado Exercício 1](Códigos/Solicitações/Imagens/1.png)
 
 **[2.](Códigos/Solicitações/2.sql)** O Governador vai doar duzentos livros para a Biblioteca, mas só irá doar se a biblioteca tiver menos de 300 obras. O Gerente Márcio Tales solicitou que fosse feita a contagem de quantas obras a Biblioteca possui atualmente.
-![Resultado Exercício 2](codigos/solicitações/imagens/2.png)
+![Resultado Exercício 2](Códigos/Solicitações/Imagens/2.png)
 
 **[3.](Códigos/Solicitações/3.sql)** A Gerência solicitou uma pesquisa para saber quais datas ocorreram empréstimos de livros e a quantidade emprestada. A consulta deverá retornar apenas um registro para cada data.
-![Resultado Exercício 3](codigos/solicitações/imagens/3.png)
+![Resultado Exercício 3](Códigos/Solicitações/Imagens/3.png)
 
 **[4.](Códigos/Solicitações/4.sql)** O Funcionário João Paulo Assistente de RH solicitou uma pesquisa que informasse todos os empréstimos que a Recepcionista Alice Meire fez no horário das 8hs as 9hs.
-![Resultado Exercício 4](codigos/solicitações/imagens/4.png)
+![Resultado Exercício 4](Códigos/Solicitações/Imagens/4.png)
 
 **[5.](Códigos/Solicitações/5.sql)** A Diretoria solicitou uma pesquisa sobre devolução de livros entre as datas 29/03/2012 a 02/02/2013.
-![Resultado Exercício 5](codigos/solicitações/imagens/5.png)
+![Resultado Exercício 5](Códigos/Solicitações/Imagens/5.png)
 
 **[6.](Códigos/Solicitações/6.sql)** A Gerência solicitou uma pesquisa para saber quais reservas de livros que foram feitas com data maior ou igual a 18/08/2011 que ainda possuem o status de "reservado".
-![Resultado Exercício 6](codigos/solicitações/imagens/6.png)
+![Resultado Exercício 6](Códigos/Solicitações/Imagens/6.png)
 
 **[7.](Códigos/Solicitações/7.sql)** A área de RH solicitou uma pesquisa para saber quais devoluções de livros foram feitas antes de 29/03/2012.
-![Resultado Exercício 7](codigos/solicitações/imagens/7.png)
+![Resultado Exercício 7](Códigos/Solicitações/Imagens/7.png)
 
 **[8.](Códigos/Solicitações/8.sql)** A Gerência solicitou uma pesquisa para saber quais obras existem no acervo que são diferentes dos títulos das obras 'O Conde de Monte Cristo' e 'Filhos e Amantes'.
-![Resultado Exercício 8](codigos/solicitações/imagens/8.png)
+![Resultado Exercício 8](Códigos/Solicitações/Imagens/8.png)
 
 **[9.](Códigos/Solicitações/9.sql)** O Funcionário João Paulo solicitou uma pesquisa para saber quantas obras do gênero Ficção existem no acervo.
-![Resultado Exercício 9](codigos/solicitações/imagens/9.png)
+![Resultado Exercício 9](Códigos/Solicitações/Imagens/9.png)
 
 **[10.](Códigos/Solicitações/10.sql)** A Diretoria solicitou uma pesquisa para identificar qual o livro possuiu a maior quantidade em estoque, incluir respectiva editora e o respectivo autor.
-![Resultado Exercício 10](codigos/solicitações/imagens/10.png)
+![Resultado Exercício 10](Códigos/Solicitações/Imagens/10.png)
 
 **[11.](Códigos/Solicitações/11.sql)** O Financeiro precisa saber qual é o livro que possui a menor quantidade em estoque e quantas vezes ele foi emprestado para que seja feita uma analise para compra de mais alguns exemplares.
-![Resultado Exercício 11](codigos/solicitações/imagens/11.png)
+![Resultado Exercício 11](Códigos/Solicitações/Imagens/11.png)
 
 **[12.](Códigos/Solicitações/12.sql)** A área de RH precisa identificar a quantidade total dos empréstimos feitos por cada funcionário ativos.
-![Resultado Exercício 12](codigos/solicitações/imagens/12.png)
+![Resultado Exercício 12](Códigos/Solicitações/Imagens/12.png)
 
 **[13.](Códigos/Solicitações/13.sql)** A Diretoria identificar as obras com os maiores números de publicações agrupados por genero.
-![Resultado Exercício 13](codigos/solicitações/imagens/13.png)
+![Resultado Exercício 13](Códigos/Solicitações/Imagens/13.png)
 
 **[14.](Códigos/Solicitações/14.sql)** A Funcionária Alice Meire solicitou a alteração da obra 'Discurso do Método' para o gênero Político.
-![Resultado Exercício 14](codigos/solicitações/imagens/14.png)
+![Resultado Exercício 14](Códigos/Solicitações/Imagens/14.png)
 
 **[15.](Códigos/Solicitações/15.sql)** A Recepcionista Alice Meire solicitou a alteração do bairro do usuário 'Alberto Roberto' que morava no 'IAPI' e agora mora no bairro de 'Perdizes'.
-![Resultado Exercício 15](codigos/solicitações/imagens/15.png)
+![Resultado Exercício 15](Códigos/Solicitações/Imagens/15.png)
 
 **[16.](Códigos/Solicitações/16.sql)** A Biblioteca recebeu a visita de um grupo de alunos, mas após a visita foi verificado desaparecimento de três livros, as obras que sumiram do acervo foram 'Filho Nativo', 'Vidas Secas' e 'Dom Casmurro', com isto será necessária a alteração da quantidade de livros no estoque de cada obra.
-![Resultado Exercício 16](codigos/solicitações/imagens/16.png)
+![Resultado Exercício 16](Códigos/Solicitações/Imagens/16.png)
 
 **[17.](Códigos/Solicitações/17.sql)** A Recepcionista Claudia Cristina não conseguiu terminar o cadastro de cinco usuários que passaram pela Biblioteca, foi solicitado a inserção desses usuários.
-![Resultado Exercício 17](codigos/solicitações/imagens/17.png)
+![Resultado Exercício 17](Códigos/Solicitações/Imagens/17.png)
 
 **[18.](Códigos/Solicitações/18.sql)** Gerência solicitou uma consulta para verificar se existe duplicidade de usuários no Banco de Dados.
-![Resultado Exercício 18](codigos/solicitações/imagens/18.png)
+![Resultado Exercício 18](Códigos/Solicitações/Imagens/18.png)
 
 **[19.](Códigos/Solicitações/19.sql)** A Recepção recebeu a informação que existem dois usuários duplicados na base, será necessária a exclusão de um desses registros.
-![Resultado Exercício 19](codigos/solicitações/imagens/19.png)
+![Resultado Exercício 19](Códigos/Solicitações/Imagens/19.png)
 
 **[20.](Códigos/Solicitações/20.sql)** O Financeiro solicitou a inserção do valor individual de cada obra. Crie um campo com o nome Valor_Livro na tabela Obra. Defina o tipo de dados que poderá ser aceito e o valor de cada título.
-![Resultado Exercício 20](codigos/solicitações/imagens/20.png)
+![Resultado Exercício 20](Códigos/Solicitações/Imagens/20.png)
 
 **[21.](Códigos/Solicitações/21.sql)** A Consultoria verificou que o campo Multa_Atraso está com o tamanho Varchar(2), foi solicitada a alteração do campo para Varchar(3).
-![Resultado Exercício 21](codigos/solicitações/imagens/21.png)
+![Resultado Exercício 21](Códigos/Solicitações/Imagens/21.png)
 
 **[22.](Códigos/Solicitações/22.sql)** Foi verificado que o campo Multa_Atraso está com os registros preenchidos de forma errada, foi solicitada a alteração dos registros que forem 0 para Não e 1 para SIM.
-![Resultado Exercício 22](codigos/solicitações/imagens/22.png)
+![Resultado Exercício 22](Códigos/Solicitações/Imagens/22.png)
 
 **[23.](Códigos/Solicitações/23.sql)** A Diretoria solicitou a exclusão do campo Valor_Livro da tabela Obra pois, o pedido feito pelo Financeiro estava errado.
-![Resultado Exercício 23](codigos/solicitações/imagens/23.png)
+![Resultado Exercício 23](Códigos/Solicitações/Imagens/23.png)
 
 **[24.](Códigos/Solicitações/24.sql)** A Diretoria solicitou a lista de todos os livros que já foram emprestados mas foram entregues com atraso e os respectivos nomes dos funcionários que fizeram os empréstimos.
-![Resultado Exercício 24](codigos/solicitações/imagens/24.png)
+![Resultado Exercício 24](Códigos/Solicitações/Imagens/24.png)
 
 **[25.](Códigos/Solicitações/25.sql)** A Gerência solicitou a lista de todos os livros, cujos autores não são brasileiros, que já foram devolvidos e o valor total de cada livro.
-![Resultado Exercício 25](codigos/solicitações/imagens/25.png)
+![Resultado Exercício 25](Códigos/Solicitações/Imagens/25.png)
 
 **[26.](Códigos/Solicitações/26.sql)** A área de RH solicitou a lista de todos usuários que fizeram empréstimo com o dia de entrega igual 21/08/2011.
-![Resultado Exercício 26](codigos/solicitações/imagens/26.png)
+![Resultado Exercício 26](Códigos/Solicitações/Imagens/26.png)
 
 **[27.](Códigos/Solicitações/27.sql)** O Financeiro solicitou a lista de todas as obras que tiveram data de publicação menor que 04-03-2013, sua respectiva quantidade e o seu valor unitário.
-![Resultado Exercício 27](codigos/solicitações/imagens/27.png)
+![Resultado Exercício 27](Códigos/Solicitações/Imagens/27.png)
 
 **[28.](Códigos/Solicitações/28.sql)** A área de RH solicitou a lista de todos os funcionários separados por ativos ou não, seus respectivos cargos e salários.
-![Resultado Exercício 28](codigos/solicitações/imagens/28.png)
+![Resultado Exercício 28](Códigos/Solicitações/Imagens/28.png)
 
 **[29.](Códigos/Solicitações/29.sql)** A Gerência solicitou uma lista de todos os livros com os nomes dos autores, nomes das editoras e a quantidade de livros em estoque.
-![Resultado Exercício 29](codigos/solicitações/imagens/29.png)
+![Resultado Exercício 29](Códigos/Solicitações/Imagens/29.png)
 
 **[30.](Códigos/Solicitações/30.sql)** A Diretoria solicitou a lista de todos os funcionários da Biblioteca com seus respectivos departamentos que tem idade entre 30 e 40 anos.
-![Resultado Exercício 30](codigos/solicitações/imagens/30.png)
+![Resultado Exercício 30](Códigos/Solicitações/Imagens/30.png)
 
 **[31.](Códigos/Solicitações/31.sql)** O Financeiro solicitou a criação de uma visão que retorne o nome do livro, seu autor e o valor.
-![Resultado Exercício 31](codigos/solicitações/imagens/31.png)
+![Resultado Exercício 31](Códigos/Solicitações/Imagens/31.png)
 
 **[32.](Códigos/Solicitações/32.sql)** A Recepção solicitou uma lista com o código do livro, nome do livro cujo valor do livro seja maior que R$90,00.
-![Resultado Exercício 32](codigos/solicitações/imagens/32.png)
+![Resultado Exercício 32](Códigos/Solicitações/Imagens/32.png)
 
 **[33.](Códigos/Solicitações/33.sql)** A área de RH solicitou a atualização do salário do Auxiliar Financeiro de 12% sobre o seu salário atual.
-![Resultado Exercício 33](codigos/solicitações/imagens/33.png)
+![Resultado Exercício 33](Códigos/Solicitações/Imagens/33.png)
 
 **[34.](Códigos/Solicitações/34.sql)** O Financeiro solicitou uma atualização da data de demissão da funcionária Alice Meire para o último dia do Mês que você se encontra atualmente.
-![Resultado Exercício 34](codigos/solicitações/imagens/34.png)
+![Resultado Exercício 34](Códigos/Solicitações/Imagens/34.png)
 
 **[35.](Códigos/Solicitações/35.sql)** A Gerência solicitou uma lista de todas as Obras, que contenham a letra "C" ordenadas por gênero e que tenham data de publicação entre 2011 e 2013.
-![Resultado Exercício 35](codigos/solicitações/imagens/35.png)
+![Resultado Exercício 35](Códigos/Solicitações/Imagens/35.png)
 
 **[36.](Códigos/Solicitações/36.sql)** A Recepção solicitou uma lista como todos os funcionários da Biblioteca com código, nome, e departamento, classificado pelo nome do funcionário e que não emprestaram nenhum livro.
-![Resultado Exercício 36](codigos/solicitações/imagens/36.png)
+![Resultado Exercício 36](Códigos/Solicitações/Imagens/36.png)
 
 **[37.](Códigos/Solicitações/37.sql)** A Biblioteca solicitou uma lista que exiba a quantidade de logradouros de usuários agrupados por número do CEP.
-![Resultado Exercício 37](codigos/solicitações/imagens/37.png)
+![Resultado Exercício 37](Códigos/Solicitações/Imagens/37.png)
 
 **[38.](Códigos/Solicitações/38.sql)** A Diretoria solicitou uma lista que exiba a quantidade de endereços agrupados por usuário.
-![Resultado Exercício 38](codigos/solicitações/imagens/38.png)
+![Resultado Exercício 38](Códigos/Solicitações/Imagens/38.png)
 
 **[39.](Códigos/Solicitações/39.sql)** Foi solicitado a busca de informações de todas as obras que foram reservadas no dia 18/08/11 as 15:00 e o nome do responsável pela reserva.
-![Resultado Exercício 39](codigos/solicitações/imagens/39.png)
+![Resultado Exercício 39](Códigos/Solicitações/Imagens/39.png)
 
 **[40.](Códigos/Solicitações/40.sql)** O financeiro solicitou o levantamento da informação de quando as usuárias Emily Mall e Whitney Cinse pegaram livros emprestados, quais foram os livros e seus respectivos valores unitários.
-![Resultado Exercício 40](codigos/solicitações/imagens/40.png)
+![Resultado Exercício 40](Códigos/Solicitações/Imagens/40.png)
 
 **[41.](Códigos/Solicitações/41.sql)** Hoje é aniversario da biblioteca e para comemorar foram comprados presentes a todos os usuários que foram os primeiros a utilizar a biblioteca, o gerente Carlos mendes pediu a relação da primeira pessoa a reservar, pegar emprestado e devolver um livro e suas respectivas informações para que possa ser entrado em contato com ele.
-![Resultado Exercício 41](codigos/solicitações/imagens/41.png)
+![Resultado Exercício 41](Códigos/Solicitações/Imagens/41.png)
 
 **[42.](Códigos/Solicitações/42.sql)** Foi solicitado pela diretoria saber quantas obras cada editora tem na biblioteca.
-![Resultado Exercício 42](codigos/solicitações/imagens/42.png)
+![Resultado Exercício 42](Códigos/Solicitações/Imagens/42.png)
 
-**[43.](Códigos/Solicitações/43.sql)** É fechamento referente ao mês de janeiro (hoje dia 03/02/2013) e a biblioteca está no vermelho, foi solicitado pelo financeiro que fosse feito um levantamento de todos os livros que não foram devolvidos, mostrando quantos dias de atraso e para cada dia foi dado uma multa de 5 reais, e mostrar o nome do usuário , livro emprestado e o total a receber pela biblioteca.
-![Resultado Exercício 43](codigos/solicitações/imagens/43.png)
+**[43.](Códigos/Solicitações/43.sql)** É fechamento referente ao mês de janeiro e a biblioteca está no vermelho, foi solicitado pelo financeiro que fosse feito um levantamento de todos os livros que não foram devolvidos, mostrando quantos dias de atraso e para cada dia foi dado uma multa de 5 reais, e mostrar o nome do usuário , livro emprestado e o total a receber pela biblioteca.
+![Resultado Exercício 43](Códigos/Solicitações/Imagens/43.png)
 
 **[44.](Códigos/Solicitações/44.sql)** Foi solicitado a informação de todos os usuários que morem em uma avenida, e ainda, que seja mostrado o nome do usuário, CPF e logradouro em ordem de CPF do maior para o menor.
-![Resultado Exercício 44](codigos/solicitações/imagens/44.png)
+![Resultado Exercício 44](Códigos/Solicitações/Imagens/44.png)
 
 **[45.](Códigos/Solicitações/45.sql)** Chegou na biblioteca uma mensagem urgente da Camila pedindo um relatório contendo a informação de todos os livros que foram emprestados mais de uma vez nos anos de 2011 a 2013 agrupados pelo nome do livro.
-![Resultado Exercício 45](codigos/solicitações/imagens/45.png)
+![Resultado Exercício 45](Códigos/Solicitações/Imagens/45.png)
 
 **[46.](Códigos/Solicitações/46.sql)** O Financeiro pediu para apresentar o valor médio dos livros e informar quais são os que estão abaixo dessa media, referente a devolução e empréstimo.
-![Resultado Exercício 46](codigos/solicitações/imagens/46.png)
+![Resultado Exercício 46](Códigos/Solicitações/Imagens/46.png)
 
 **[47.](Códigos/Solicitações/47.sql)** Barbara do financeiro pediu para verificar qual a media do salario dos funcionários e quem são os que ganham mais do que a media em cada departamento.
-![Resultado Exercício 47](codigos/solicitações/imagens/47.png)
+![Resultado Exercício 47](Códigos/Solicitações/Imagens/47.png)
 
 **[48.](Códigos/Solicitações/48.sql)** Carlos pediu que seja feita uma pesquisa informando de todos os usuários que tem cadastro na biblioteca e que nunca levaram livros mostrar o nome de todos em Maiúsculas.
-![Resultado Exercício 48](codigos/solicitações/imagens/48.png)
+![Resultado Exercício 48](Códigos/Solicitações/Imagens/48.png)
 
 **[49.](Códigos/Solicitações/49.sql)** A recepção pediu para verificar quais os usuários que já pegaram mais de 3 livros, e em caso positivo, mostrar nomes e quais livros, ordenando pelo CEP (crescente).
-![Resultado Exercício 49](codigos/solicitações/imagens/49.png)
+![Resultado Exercício 49](Códigos/Solicitações/Imagens/49.png)
 
 **[50.](Códigos/Solicitações/50.sql)** A diretoria pediu que fosse feito uma analise do estoque, apresentando uma lista com todos os livros que já foram reservados e emprestados e, mostrar quantos estão disponíveis classificados por Gênero.
-![Resultado Exercício 50](codigos/solicitações/imagens/50.png)
+![Resultado Exercício 50](Códigos/Solicitações/Imagens/50.png)
 
 **[51.](Códigos/Solicitações/51.sql)** Foi solicitada a pesquisa de qual a hora que a biblioteca tem mais movimento e, também, qual o horário de menor movimentação, faça a avaliação de todas as horas de devolução, empréstimo e reserva.
-![Resultado Exercício 51](codigos/solicitações/imagens/51.png)
+![Resultado Exercício 51](Códigos/Solicitações/Imagens/51.png)
 
 **[52.](Códigos/Solicitações/52.sql)** A sociedade brasileira de editoras solicitou o levantamento para a biblioteca de qual são os 3 autores que tem mais livros lidos no ano de 2012 e 2013 e os 2 que tem menos obras lidas.
-![Resultado Exercício 52](codigos/solicitações/imagens/52.png)
+![Resultado Exercício 52](Códigos/Solicitações/Imagens/52.png)
 
 **[53.](Códigos/Solicitações/53.sql)** Crie uma tabela que exiba uma lista de todos livros por funcionario, o total de empréstimos e devoluções que cada um atendeu.
-![Resultado Exercício 53](codigos/solicitações/imagens/53.png)
+![Resultado Exercício 53](Códigos/Solicitações/Imagens/53.png)
 
 **[54.](Códigos/Solicitações/54.sql)** A biblioteca quer fechar parceria com as editoras, e existem usuários que trabalham nas editoras facilitando esse contato, para tanto, verificar quais usuários possuem o mesmo endereço das editoras.
-![Resultado Exercício 54](codigos/solicitações/imagens/54.png)
+![Resultado Exercício 54](Códigos/Solicitações/Imagens/54.png)
 
 **[55.](Códigos/Solicitações/55.sql)** Foi solicitado a criação de uma visão que traga todos os livros e o preço da editora Leya.
-![Resultado Exercício 55](codigos/solicitações/imagens/55.png)
+![Resultado Exercício 55](Códigos/Solicitações/Imagens/55.png)
 
 **[56.](Códigos/Solicitações/56.sql)** A biblioteca foi comprar mais livros para aumentar seu acervo, mas a editora Saraiva aumentou em 16% ovalor de seus livros, atualize os preços dos livros da editora na porcentagem designada.
-![Resultado Exercício 56](codigos/solicitações/imagens/56.png)
+![Resultado Exercício 56](Códigos/Solicitações/Imagens/56.png)
 
 **[57.](Códigos/Solicitações/57.sql)** Foi solicitado apresentarmos quais as 5 obras que tiveram menos publicações e as 5 de maior, ainda, mostrar qual o autor, editora, nome do livro e quantidade de publicações em ordem decrescente.
-![Resultado Exercício 57](codigos/solicitações/imagens/57.png)
+![Resultado Exercício 57](Códigos/Solicitações/Imagens/57.png)
 
-**[58.](Códigos/Solicitações/58.sql)** Fazem cento e noventa e três meses que o instituto bibliográfico brasileiro surgiu. Para comemorar a diretoria pediu a relação de todos os usuários que tem o cpf com o começo 193 que receberão um presente de comemoração. Foi solicitado informar o nome e o cpf mascarando os dígitos do meio com asteriscos (exemplo: 193.***.***-35).
-![Resultado Exercício 58](codigos/solicitações/imagens/58.png)
+**[58.](Códigos/Solicitações/58.sql)** Fazem cento e noventa e três meses que o instituto bibliográfico brasileiro surgiu. Para comemorar a diretoria pediu a relação de todos os usuários que tem o cpf com o começo 193 que receberão um presente de comemoração. Foi solicitado informar o nome e o cpf mascarando os dígitos do meio com asteriscos.
+![Resultado Exercício 58](Códigos/Solicitações/Imagens/58.png)
