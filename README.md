@@ -140,7 +140,7 @@ O banco de dados `db_biblioteca` foi implementado com **11 tabelas** relacionais
 
 ### Modelo Visual 
 
-![Modelo Entidade-Relacionamento](/Case_Biblioteca_SQL/Modelos/modelagem_atualizada.png)
+![Modelo Entidade-Relacionamento](Modelos/modelagem_atualizada.png)
 
 ---
 
