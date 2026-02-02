@@ -179,7 +179,7 @@ Abaixo estão as solicitações da diretoria e gerência, acompanhadas de seus r
 ### Lista de Exercícios
 
 **[1.](Códigos/Solicitações/1.sql)** A Diretora Camilla Prado solicitou uma pesquisa que informe todas as obras cadastradas no acervo ordenadas por data de publicação.
-![Resultado Exercício 1](codigos/solicitações/imagens/1.png)
+![Resultado Exercício 1](Códigos/Solicitações/Imagens/1.png)
 
 **[2.](Códigos/Solicitações/2.sql)** O Governador vai doar duzentos livros para a Biblioteca, mas só irá doar se a biblioteca tiver menos de 300 obras. O Gerente Márcio Tales solicitou que fosse feita a contagem de quantas obras a Biblioteca possui atualmente.
 ![Resultado Exercício 2](codigos/solicitações/imagens/2.png)
