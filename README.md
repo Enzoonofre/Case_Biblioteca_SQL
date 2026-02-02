@@ -231,7 +231,6 @@ Abaixo está a lista completa de todas as 58 solicitações resolvidas neste pro
 **[14.](Códigos/Solicitações/14.sql)** A Funcionária Alice Meire solicitou a alteração da obra 'Discurso do Método' para o gênero Político.
 
 
-
 **[15.](Códigos/Solicitações/15.sql)** A Recepcionista Alice Meire solicitou a alteração do bairro do usuário 'Alberto Roberto' que morava no 'IAPI' e agora mora no bairro de 'Perdizes'.
 
 
@@ -242,13 +241,11 @@ Abaixo está a lista completa de todas as 58 solicitações resolvidas neste pro
 **[17.](Códigos/Solicitações/17.sql)** A Recepcionista Claudia Cristina não conseguiu terminar o cadastro de cinco usuários que passaram pela Biblioteca, foi solicitado a inserção desses usuários.
 
 
-
 **[18.](Códigos/Solicitações/18.sql)** Gerência solicitou uma consulta para verificar se existe duplicidade de usuários no Banco de Dados.
 
 ![Resultado Exercício 18](Códigos/Solicitações/Imagens/18.png)
 
 **[19.](Códigos/Solicitações/19.sql)** A Recepção recebeu a informação que existem dois usuários duplicados na base, será necessária a exclusão de um desses registros.
-
 
 
 **[20.](Códigos/Solicitações/20.sql)** O Financeiro solicitou a inserção do valor individual de cada obra. Crie um campo com o nome Valor_Livro na tabela Obra. Defina o tipo de dados que poderá ser aceito e o valor de cada título.
@@ -264,7 +261,6 @@ Abaixo está a lista completa de todas as 58 solicitações resolvidas neste pro
 
 
 **[23.](Códigos/Solicitações/23.sql)** A Diretoria solicitou a exclusão do campo Valor_Livro da tabela Obra pois, o pedido feito pelo Financeiro estava errado.
-
 
 
 **[24.](Códigos/Solicitações/24.sql)** A Diretoria solicitou a lista de todos os livros que já foram emprestados mas foram entregues com atraso e os respectivos nomes dos funcionários que fizeram os empréstimos.
@@ -306,9 +302,7 @@ Abaixo está a lista completa de todas as 58 solicitações resolvidas neste pro
 **[33.](Códigos/Solicitações/33.sql)** A área de RH solicitou a atualização do salário do Auxiliar Financeiro de 12% sobre o seu salário atual.
 
 
-
 **[34.](Códigos/Solicitações/34.sql)** O Financeiro solicitou uma atualização da data de demissão da funcionária Alice Meire para o último dia do Mês que você se encontra atualmente.
-
 
 **[35.](Códigos/Solicitações/35.sql)** A Gerência solicitou uma lista de todas as Obras, que contenham a letra "C" ordenadas por gênero e que tenham data de publicação entre 2011 e 2013.
 
@@ -395,7 +389,6 @@ Abaixo está a lista completa de todas as 58 solicitações resolvidas neste pro
 ![Resultado Exercício 55](Códigos/Solicitações/Imagens/55.png)
 
 **[56.](Códigos/Solicitações/56.sql)** A biblioteca foi comprar mais livros para aumentar seu acervo, mas a editora Saraiva aumentou em 16% ovalor de seus livros, atualize os preços dos livros da editora na porcentagem designada.
-
 
 
 **[57.](Códigos/Solicitações/57.sql)** Foi solicitado apresentarmos quais as 5 obras que tiveram menos publicações e as 5 de maior, ainda, mostrar qual o autor, editora, nome do livro e quantidade de publicações em ordem decrescente.
